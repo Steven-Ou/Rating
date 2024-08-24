@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Thompson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Thompson's lectures are engaging and well-structured. She explains complex concepts clearly."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant professor! Prof. Chen's passion for coding is contagious. His projects are challenging but rewarding."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Johnson knows her subject well, but her lectures can be a bit dry at times."
+      },
+      {
+        "professor": "Prof. David Martinez",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Prof. Martinez makes even the most difficult math concepts understandable. Highly recommended!"
+      },
+      {
+        "professor": "Dr. Rachel Lee",
+        "subject": "Literature",
+        "stars": 4,
+        "review": "Dr. Lee's enthusiasm for literature is evident in every class. Her reading list is diverse and thought-provoking."
+      },
+      {
+        "professor": "Prof. Robert Taylor",
+        "subject": "Physics",
+        "stars": 2,
+        "review": "Prof. Taylor seems knowledgeable, but his teaching style is confusing. More practical examples would help."
+      },
+      {
+        "professor": "Dr. Amanda Wong",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Wong's labs are well-organized and her explanations are crystal clear. She's always willing to help students."
+      },
+      {
+        "professor": "Prof. John Smith",
+        "subject": "History",
+        "stars": 3,
+        "review": "Prof. Smith's lectures are informative, but he tends to go off on tangents. Exams are fair."
+      },
+      {
+        "professor": "Dr. Lisa Brown",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. Brown incorporates current events into her teachings, making the subject very relevant and interesting."
+      },
+      {
+        "professor": "Prof. Kevin O'Brien",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "Prof. O'Brien's lectures are hard to follow. He assumes too much prior knowledge from students."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Garcia's passion for the environment is inspiring. Her field trips are the highlight of the course."
+      },
+      {
+        "professor": "Prof. Thomas Wilson",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Prof. Wilson encourages critical thinking and lively debates. His classes are never boring."
+      },
+      {
+        "professor": "Dr. Jennifer Patel",
+        "subject": "Neuroscience",
+        "stars": 3,
+        "review": "Dr. Patel's course content is fascinating, but her grading can be inconsistent and unclear at times."
+      },
+      {
+        "professor": "Prof. William Lee",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Prof. Lee's knowledge of art is encyclopedic. His virtual museum tours are an excellent learning experience."
+      },
+      {
+        "professor": "Dr. Elizabeth Carter",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Dr. Carter presents balanced viewpoints and encourages students to form their own opinions. Very engaging."
+      },
+      {
+        "professor": "Prof. James Anderson",
+        "subject": "Engineering",
+        "stars": 2,
+        "review": "Prof. Anderson's assignments are often unclear, and he's not very responsive to emails. Course needs improvement."
+      },
+      {
+        "professor": "Dr. Sophia Rossi",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Dr. Rossi makes language study fun and interactive. Her research projects are particularly enlightening."
+      },
+      {
+        "professor": "Prof. Daniel Kim",
+        "subject": "Business Administration",
+        "stars": 3,
+        "review": "Prof. Kim has good real-world examples, but his lectures can be repetitive. More variety would be appreciated."
+      },
+      {
+        "professor": "Dr. Olivia Murphy",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Dr. Murphy's enthusiasm for cultural studies is infectious. Her assignments encourage creative thinking."
+      },
+      {
+        "professor": "Prof. Christopher Davis",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Prof. Davis is a musical genius. His composition workshops are challenging but incredibly rewarding."
+      }
+    ]
+  }
